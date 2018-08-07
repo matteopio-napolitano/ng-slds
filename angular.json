@@ -20,10 +20,14 @@
             "tsConfig": "src/tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              { "glob": "**/*", "input": "./node_modules/@salesforce-ux/design-system/assets/fonts", "output": "/assets/fonts/" },
+              { "glob": "**/*", "input": "./node_modules/@salesforce-ux/design-system/assets/icons", "output": "/assets/icons/" },
+              { "glob": "**/*", "input": "./node_modules/@salesforce-ux/design-system/assets/images", "output": "/assets/images/" }
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/@salesforce-ux/design-system/assets/styles/salesforce-lightning-design-system.min.css"
             ],
             "scripts": []
           },
