@@ -1,4 +1,4 @@
-# ng-slds
+# ng-slds [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/matteopio-napolitano/ng-slds/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/matteopio-napolitano/ng-slds/?branch=master) [![Build Status](https://travis-ci.org/matteopio-napolitano/ng-slds.svg?branch=master)](https://travis-ci.org/matteopio-napolitano/ng-slds)
 
 ![Alt text](ng-slds.png)
 
