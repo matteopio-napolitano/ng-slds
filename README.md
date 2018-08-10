@@ -24,9 +24,9 @@ To explore this demo, [Node.js](https://nodejs.org) must be installed into your 
 6. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## How "Angular + SLDS" integration was achieved
-Salesforce Lighning Design System (SLDS) can be integrated within an Angular CLI Application by loading all the necessary assets. To achive this, it is necessary to configure properly the `angular.json` file.
+Salesforce Lightning Design System (SLDS) can be integrated within an Angular CLI Application by loading all the necessary assets. To achieve this, it is necessary to configure properly the `angular.json` file.
 
-First of all, we need to add SDLS as a dependecy:
+First of all, we need to add SDLS as a dependency:
 
 ```
 $ npm install @salesforce-ux/design-system --save
