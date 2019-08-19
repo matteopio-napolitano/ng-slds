@@ -4,7 +4,7 @@
 
 This project is an example of how to integrate Salesforce Lightning Design System (SLDS) within an Angular single page application.
 
-It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2. If suitable for you, you can install Angular CLI globally:
+It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2 and is currently running on version 8.2. If suitable for you, you can install Angular CLI globally:
 
 ```
 $ npm install -g @angular/cli
