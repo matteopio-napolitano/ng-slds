@@ -21,7 +21,7 @@ To explore this demo, [Node.js](https://nodejs.org) must be installed into your 
 3. Move to project folder `cd ng-slds`
 4. Install dependecies with `npm install`
 5. Run the app `npm start`
-6. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+6. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
 
 ![Alt text](screenshot.png)
 
